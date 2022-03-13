@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * entry point main
- * print size of variables
- * return 0 on success
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
 */
 int main(void)
 {
