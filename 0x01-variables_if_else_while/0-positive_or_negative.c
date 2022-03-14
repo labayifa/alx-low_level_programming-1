@@ -5,7 +5,7 @@
  * main - Entry point
  * Description: random number and tell if it is positive, negative, or zero.
  * Return: Always 0.
- */
+*/
 int main(void)
 {
 	int n;
